@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Arthur</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas do UNICEUB. Estou atualmente, estudando C#, junto de html, CSS e MySQL.</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas do UNICEUB. Estou atualmente estudando JavaScript(TypeScript, NextJs, Angular), junto de html, CSS e MySQL.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
